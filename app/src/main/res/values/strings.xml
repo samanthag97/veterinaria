@@ -7,7 +7,7 @@
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">0</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_second_fragment">Hello second fragment: %d</string>
     <string name="first_button_text">First</string>
     <string name="second_button_text">Second</string>
 
