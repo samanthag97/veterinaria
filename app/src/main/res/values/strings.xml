@@ -10,5 +10,10 @@
     <string name="hello_second_fragment">Hello second fragment: %d</string>
     <string name="first_button_text">First</string>
     <string name="second_button_text">Second</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_third_fragment">Hello third fragment</string>
+    <string name="third_button">Third Button</string>
+    <string name="to_third_f">to third f.</string>
+    <string name="prova">prova</string>
 
 </resources>

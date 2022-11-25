@@ -44,6 +44,7 @@ public class FirstFragment extends Fragment {
                         .actionFirstFragmentToSecondFragment(currentCount);
                 NavHostFragment.findNavController(FirstFragment.this).navigate(action);
 
+
             }
         });
 
@@ -55,6 +56,15 @@ public class FirstFragment extends Fragment {
                //toast -> it prints a temp. string at the bottom of the first fragment
                //Toast myToast = Toast.makeText(getActivity(), "Hello there", Toast.LENGTH_SHORT);
                //myToast.show();
+            }
+        });
+
+        //click listener for third button
+        binding.buttonToThird.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                NavHostFragment.findNavController(FirstFragment.this)
+                        .navigate(R.id.action_FirstFragment_to_thirdFragment);
             }
         });
     }
