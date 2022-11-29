@@ -15,5 +15,7 @@
     <string name="third_button">Third Button</string>
     <string name="to_third_f">to third f.</string>
     <string name="prova">prova</string>
+    <string name="digit">Digit here</string>
+    <string name="firebase">Firebase</string>
 
 </resources>
