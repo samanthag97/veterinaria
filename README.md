@@ -6,10 +6,11 @@ app "veterinaria".
 - news (eventuale)
 
 --------------------------------------------------------
-al momento l'app ha semplicemente 2 pulsanti:
+al momento l'app ha semplicemente 3 pulsanti:
 
 - "second" per incrementare un counter e 
 	mostrarne il valore nel primo fragment 
 - "first" per stampare il valore 
 	precedente nel secondo fragment
+- "to third f." per accedere al terzo fragment
 
